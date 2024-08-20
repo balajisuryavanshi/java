@@ -1,5 +1,5 @@
 import java.lang.*;
-class b
+class check
 {
 public static void main(String args[])
 {
